@@ -18,4 +18,4 @@ node app http://earn500dotfun/
 ```
 
 ### What it does?
-It simple fill-up all the fields and keep submitting one after other... That's it... It would be more helpful if we can somehow make the criminals more confused with real looking fake data. I couldn't make it as I don't have enough time at my hand. I will appreciate if you can do that. 
+It simply fill-up all the fields and keep submitting one after other... That's it... It would be more helpful if we can somehow make the criminals more confused with real looking fake data. I couldn't make it as I don't have enough time at my hand. I will appreciate if you can do that. 
