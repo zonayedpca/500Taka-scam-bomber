@@ -1,0 +1,9 @@
+{
+  "name": "bomber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "puppeteer": "^3.0.0"
+  }
+}
